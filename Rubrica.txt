@@ -1,8 +1,9 @@
--Terrain
--Input: Q--> Animación brazos, E--> Bajar vida, Click Izquierdo Ratón--> Disparar (Solo animación)
--Lvl BluePrint (Sonido de salto)
--Esferas Físicas
--HUD (Corazones, Monedas)
--Animación HUD (Debido a que los corazones no se podian animar, he animado dos cuadrados en ambas esquinas de la pantalla)
--Animación Disparo
--Triggers (Moneda y Sonido de salto)
+-Terrain 
+-Input: Q--> Animación brazos, E--> Bajar vida, Click Izquierdo Ratón--> Disparar (Solo animación) 
+- Montage animación brazos
+-Lvl BluePrint (Sonido de salto) 
+-Esferas Físicas 
+-HUD (Corazones, Monedas) 
+-Animación HUD (Debido a que los corazones no se podian animar, he animado dos cuadrados en ambas esquinas de la pantalla) 
+-Animación Disparo 
+-Triggers (Moneda y Sonido de salto) 
