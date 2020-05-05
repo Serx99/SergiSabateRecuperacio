@@ -1,6 +1,7 @@
 -Terrain
 -Input: Q--> Animación brazos, E--> Bajar vida, Click Izquierdo Ratón--> Disparar (Solo animación)
+-Lvl BluePrint (Sonido de salto)
 -Esferas Físicas
 -HUD (Corazones, Monedas)
 -Animación Disparo
--Triggers
+-Triggers (Moneda y Sonido de salto)
