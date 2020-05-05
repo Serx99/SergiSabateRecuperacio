@@ -1,0 +1,6 @@
+-Terrain
+-Input: Q--> Animación brazos, E--> Bajar vida, Click Izquierdo Ratón--> Disparar (Solo animación)
+-Esferas Físicas
+-HUD (Corazones, Monedas)
+-Animación Disparo
+-Triggers
